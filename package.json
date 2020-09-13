@@ -1,0 +1,22 @@
+{
+  "name": "mthbot",
+  "version": "1.0.0",
+  "description": "This is a bot for MTH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotToxicDev/MTHBot.git"
+  },
+  "author": "NotToxicDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NotToxicDev/MTHBot/issues"
+  },
+  "homepage": "https://github.com/NotToxicDev/MTHBot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
